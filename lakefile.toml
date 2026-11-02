@@ -1,0 +1,17 @@
+name = "IntervalAgents"
+version = "1.0.0"
+keywords = ["concurrency", "interval orders", "petri nets", "formal semantics"]
+defaultTargets = ["IntervalAgents"]
+
+[leanOptions]
+pp.unicode.fun = true # pretty-prints `fun a ↦ b`
+relaxedAutoImplicit = false
+maxSynthPendingDepth = 3
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.36.0-rc2"
+
+[[lean_lib]]
+name = "IntervalAgents"

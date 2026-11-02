@@ -1,0 +1,26 @@
+=== committed / atstart
+  GI_BB   true in 400   GI_BE   true in 400   GI_EB   true in 77   GI_EE   true in 400   J_BB    true in 400   J_EE    true in 400   HSC     true in 400   cOC     true in 400   cOC2    true in 400   cJS     true in 400   EqR     true in 373   NGs     true in 23   NGw     true in 23 
+=== committed / overall
+  GI_BB   true in 400   GI_BE   true in 170   GI_EB   true in 86   GI_EE   true in 180   J_BB    true in 400   J_EE    true in 180   HSC     true in 180   cOC     true in 170   cOC2    true in 180   cJS     true in 180   EqR     true in 400   NGs     true in 400   NGw     true in 400 
+=== committed / closed
+  GI_BB   true in 400   GI_BE   true in 170   GI_EB   true in 86   GI_EE   true in 180   J_BB    true in 400   J_EE    true in 180   HSC     true in 180   cOC     true in 170   cOC2    true in 180   cJS     true in 180   EqR     true in 400   NGs     true in 400   NGw     true in 400 
+=== committed / atend
+  GI_BB   true in 400   GI_BE   true in 400   GI_EB   true in 400   GI_EE   true in 86   J_BB    true in 400   J_EE    true in 90   HSC     true in 86   cOC     true in 86   cOC2    true in 86   cJS     true in 90   EqR     true in 400   NGs     true in 400   NGw     true in 400 
+=== consuming / atstart
+  GI_BB   true in 183   GI_BE   true in 400   GI_EB   true in 166   GI_EE   true in 400   J_BB    true in 187   J_EE    true in 400   HSC     true in 183   cOC     true in 183   cOC2    true in 183   cJS     true in 187   EqR     true in 371   NGs     true in 0   NGw     true in 0 
+=== consuming / overall
+  GI_BB   true in 209   GI_BE   true in 266   GI_EB   true in 128   GI_EE   true in 257   J_BB    true in 288   J_EE    true in 257   HSC     true in 134   cOC     true in 147   cOC2    true in 207   cJS     true in 191   EqR     true in 387   NGs     true in 0   NGw     true in 0 
+=== consuming / closed
+  GI_BB   true in 209   GI_BE   true in 266   GI_EB   true in 128   GI_EE   true in 257   J_BB    true in 288   J_EE    true in 257   HSC     true in 134   cOC     true in 147   cOC2    true in 210   cJS     true in 191   EqR     true in 387   NGs     true in 0   NGw     true in 0 
+=== consuming / atend
+  GI_BB   true in 400   GI_BE   true in 175   GI_EB   true in 400   GI_EE   true in 177   J_BB    true in 400   J_EE    true in 178   HSC     true in 177   cOC     true in 108   cOC2    true in 212   cJS     true in 178   EqR     true in 375   NGs     true in 0   NGw     true in 0 
+=== startonly / atstart
+  GI_BB   true in 86   GI_BE   true in 400   GI_EB   true in 400   GI_EE   true in 400   J_BB    true in 90   J_EE    true in 400   HSC     true in 86   cOC     true in 86   cOC2    true in 86   cJS     true in 90   EqR     true in 400   NGs     true in 400   NGw     true in 400 
+=== startonly / overall
+  GI_BB   true in 124   GI_BE   true in 400   GI_EB   true in 190   GI_EE   true in 400   J_BB    true in 215   J_EE    true in 400   HSC     true in 124   cOC     true in 124   cOC2    true in 215   cJS     true in 215   EqR     true in 400   NGs     true in 400   NGw     true in 400 
+=== startonly / closed
+  GI_BB   true in 124   GI_BE   true in 400   GI_EB   true in 190   GI_EE   true in 400   J_BB    true in 215   J_EE    true in 400   HSC     true in 124   cOC     true in 124   cOC2    true in 215   cJS     true in 215   EqR     true in 400   NGs     true in 400   NGw     true in 400 
+=== startonly / atend
+  GI_BB   true in 400   GI_BE   true in 77   GI_EB   true in 400   GI_EE   true in 400   J_BB    true in 400   J_EE    true in 400   HSC     true in 400   cOC     true in 134   cOC2    true in 400   cJS     true in 400   EqR     true in 381   NGs     true in 23   NGw     true in 54 
+
+[exited with code 0]

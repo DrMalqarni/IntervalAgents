@@ -1,0 +1,8 @@
+/.lake
+/checks/*.pkl
+__pycache__/
+/paper/*.aux
+/paper/*.log
+/paper/*.bbl
+/paper/*.blg
+/paper/*.out

@@ -1,0 +1,7 @@
+disc/reading            GI_BB  GI_BE  GI_EB  GI_EE   J_BB   J_EE    HSC    cJS    EqR    REP    IOC
+committed/atstart          25     25      3     25     25     25     25     25     23     25     25
+committed/overall          25     11      5     10     25     10     10     10     25     24     15
+consuming/atstart           9     25      6     25     11     25      9     11     25     24     11
+consuming/overall           9     19      7     16     15     16      6     11     25     25     14
+
+[exited with code 0]

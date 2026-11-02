@@ -1,0 +1,10 @@
+disc/reading            GI_BB  GI_BE  GI_EB  GI_EE   J_BB   J_EE    HSC    cJS    EqR    REP    IOC
+committed/atstart         150    150     72    150    150    150    150    150    147    150    150
+committed/overall         150    113     84    106    150    106    106    106    150    150    121
+committed/closed          150    113     84    106    150    106    106    106    150    150    121
+consuming/atstart         114    150     85    150    115    150    114    115    146    148    115
+consuming/overall         115    126     97    115    129    115     97    103    148    150    115
+consuming/closed          115    126     97    115    129    115     97    103    148    150    115
+startonly/atstart          87    150    150    150     89    150     87     89    150    144     89
+startonly/overall          94    150    109    150    119    150     94    119    150    149    119
+startonly/closed           94    150    109    150    119    150     94    119    150    149    119
