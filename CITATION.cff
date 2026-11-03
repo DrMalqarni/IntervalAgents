@@ -6,6 +6,14 @@ authors:
     given-names: Mohammed
     affiliation: University of Jeddah
 version: 1.0.0
+doi: 10.5281/zenodo.23909483
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23909483
+    description: Release v1.0.0
+  - type: doi
+    value: 10.5281/zenodo.23909482
+    description: All versions
 date-released: 2026-11-02
 license: Apache-2.0
 repository-code: https://github.com/DrMalqarni/IntervalAgents

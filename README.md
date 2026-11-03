@@ -111,5 +111,6 @@ The folder `paper/` holds the LaTeX source and a PDF of the submitted version of
 
 ## Licence and citation
 
-Apache License 2.0 (see `LICENSE`). To cite, use `CITATION.cff`; the archived release carries
-a Zenodo DOI, recorded there and in the paper.
+Apache License 2.0 (see `LICENSE`). To cite, use `CITATION.cff`. Release v1.0.0 is archived at
+Zenodo under DOI [10.5281/zenodo.23909483](https://doi.org/10.5281/zenodo.23909483) (all versions:
+[10.5281/zenodo.23909482](https://doi.org/10.5281/zenodo.23909482)).
