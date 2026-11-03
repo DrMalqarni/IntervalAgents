@@ -107,7 +107,9 @@ No `sorry`, `admit` or `native_decide`. `#print axioms` reports at most `propext
 
 ## Paper
 
-The folder `paper/` holds the LaTeX source and a PDF of the submitted version of the paper.
+The folder `paper/` holds the LaTeX source and a PDF of the submitted version of the paper. The
+manuscript is a preprint for reading and is not covered by the repository licence (see
+`paper/README.md`); the published version will be the version of record.
 
 ## Licence and citation
 
